@@ -106,5 +106,7 @@
   {% include '_third-party/exturl.swig' %}
   {% include '_third-party/bookmark.swig' %}
   {% include '_third-party/copy-code.swig' %}
+
+  <script type="text/javascript" src="/js/src/love.js"></script>
 </body>
 </html>

@@ -483,7 +483,7 @@ baidu_analytics: 8f5e395c6947dd4f4a67a5d64171f869
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: 
   count: true
   lazyload: false
 
@@ -518,7 +518,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zNzI2MS8xMzc5NQ==
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
