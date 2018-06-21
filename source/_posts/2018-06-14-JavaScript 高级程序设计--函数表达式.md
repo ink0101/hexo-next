@@ -1,8 +1,9 @@
 ---
-title: 函数表达式学习笔记
+title: 《JavaScript 高级程序设计》-- 函数表达式
 date: 2018-06-14 14:19:11
 tags:
 	- JavaScript
+	- 学习笔记
 categories: 前端
 ---
 
