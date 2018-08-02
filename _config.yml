@@ -79,7 +79,8 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ink0101/ink0101.github.io.git
+  # repo: https://github.com/ink0101/ink0101.github.io.git
+  repo: git@github.com:ink0101/ink0101.github.io.git
   branch: master
   name: ink0101
   email: cftt2016@gmail.com
